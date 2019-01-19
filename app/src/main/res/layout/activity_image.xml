@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <ImageView
+        android:background="@drawable/imageback"
+        android:scaleType="fitXY"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <!--<com.google.android.gms.ads.AdView
+        android:layout_alignParentBottom="true"
+        android:id="@+id/adview"
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        ads:adSize="SMART_BANNER"
+        android:background="#f7cc1f"
+        ads:adUnitId="@string/banner2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>-->
+
+</RelativeLayout>

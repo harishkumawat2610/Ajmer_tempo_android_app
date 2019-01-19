@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Test ads
+
+    <string name="testBanner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="testInter">ca-app-pub-3940256099942544/1033173712</string>
+-->
+    <!--ajmer tempo ads-->
+    <string name="banner1">ca-app-pub-7442434584874848/1072995136</string>
+    <string name="banner2">ca-app-pub-7442434584874848/9639549163</string>
+    <string name="interstitial1">ca-app-7442434584874848/1172588553</string>
+    <string name="interstitial2">ca-app-pub-7442434584874848/2507164606</string>
+
+
+</resources>

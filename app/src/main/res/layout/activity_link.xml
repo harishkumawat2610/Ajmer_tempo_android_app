@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    >
+
+<!--    <com.google.android.gms.ads.AdView
+        android:layout_alignParentBottom="true"
+        android:id="@+id/adview"
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        ads:adSize="SMART_BANNER"
+        ads:adUnitId="@string/banner1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>-->
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+       >
+
+      <RelativeLayout
+     android:layout_width="match_parent"
+     android:layout_height="match_parent">
+
+          <Button
+        android:id="@+id/petrol"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:layout_margin="10dp"
+        android:textSize="30dp"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:background="@drawable/buttnlink"
+        android:textColor="#f7cc1f"
+        android:textStyle="bold"
+        android:text="Petrol Pump" />
+
+    <Button
+        android:id="@+id/hospital"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/petrol"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:background="@drawable/buttnlink"
+        android:textColor="#f7cc1f"
+        android:layout_margin="10dp"
+        android:layout_marginTop="30dp"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:text="Private Hospitals" />
+
+    <Button
+        android:id="@+id/restorant"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/hospital"
+        android:textSize="30dp"
+       android:layout_margin="10dp"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:background="@drawable/buttnlink"
+        android:textColor="#f7cc1f"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:layout_centerVertical="true"
+        android:text="Restorants" />
+
+    <Button
+        android:id="@+id/cinema"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:background="@drawable/buttnlink"
+        android:textColor="#f7cc1f"
+        android:textStyle="bold"
+        android:layout_margin="10dp"
+        android:layout_below="@+id/restorant"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="Cinemas" />
+
+    <Button
+        android:id="@+id/gym"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:background="@drawable/buttnlink"
+        android:textColor="#f7cc1f"
+        android:textStyle="bold"
+        android:layout_margin="10dp"
+        android:layout_below="@+id/cinema"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="Gyms" />
+
+    <Button
+        android:id="@+id/dance"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:background="@drawable/buttnlink"
+        android:textColor="#f7cc1f"
+        android:textStyle="bold"
+        android:layout_margin="10dp"
+        android:layout_below="@+id/gym"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="Dance Classes" />
+
+    <Button
+        android:id="@+id/other"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:background="@drawable/buttnlink"
+        android:textColor="#f7cc1f"
+        android:textStyle="bold"
+        android:layout_margin="10dp"
+        android:layout_below="@+id/dance"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="Others" />
+ </RelativeLayout>
+
+    </ScrollView>
+</RelativeLayout>

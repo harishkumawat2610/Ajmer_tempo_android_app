@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="app.ajmer.tempo">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="Ajmer Tempo"
+        android:largeHeap="true"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="app.ajmer.tempo.Splash"
+            android:theme="@style/fullScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="app.ajmer.tempo.NextActivity"
+            android:label="Root.No\t Places" />
+        <activity
+            android:name="app.ajmer.tempo.GridActivity"
+            android:label="Searching Methods" />
+        <activity
+            android:name="app.ajmer.tempo.Search"
+            android:label="Search by palace" />
+        <activity
+            android:name="app.ajmer.tempo.LastActivity"
+            android:label="According to Tempo Template" />
+        <activity android:name="app.ajmer.tempo.LinkActivity"
+            android:label="Things near By Me"/>
+
+        <activity android:name="app.ajmer.tempo.ImageActivity"
+            android:label="Image"/>
+        <activity android:name="app.ajmer.tempo.About"
+            android:label="About"></activity>
+    </application>
+
+</manifest>

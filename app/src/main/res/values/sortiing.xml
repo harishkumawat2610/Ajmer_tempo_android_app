@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="AllStopsSorting">
+        <item>\n9 नं.पेट्रोल पम्प</item>
+        <item>\nAIT</item>
+        <item>\nC.R.P.</item>
+        <item>\nD.B.N.</item>
+        <item>\nD.R.M</item>
+        <item>\nDAV</item>
+        <item>\nG.C.1</item>
+        <item>\nG.C.2</item>
+        <item>\nG.E.C.A.</item>
+        <item>\nGCA</item>
+        <item>\nHMT</item>
+        <item>\nJAJU ITI</item>
+        <item>\nLIC कॉलोनी</item>
+        <item>\nMPS</item>
+        <item>\nR.P.S.C.</item>
+        <item>\nR.T.O</item>
+        <item>\nRELIANCE</item>
+        <item>\nU.I.T.</item>
+        <item>\nअग्रसेन चौराहा</item>
+        <item>\nअजमेर क्लब</item>
+        <item>\nअन्दर कोट</item>
+        <item>\nअलवर गेट</item>
+        <item>\nआगरा गेट</item>
+        <item>\nआनन्द नगर</item>
+        <item>\nआनासागर</item>
+        <item>\nआर्दशनगर</item>
+        <item>\nआर्यन कॉलेज </item>
+        <item>\nउसरी गेट</item>
+        <item>\nऑल सेंट  स्कुल</item>
+        <item>\nकचहरी</item>
+        <item>\nकबीर नगर</item>
+        <item>\nकलेक्ट्री चौराहा</item>
+        <item>\nकल्याणीपुरा</item>
+        <item>\nकाकरिया</item>
+        <item>\nकाली का मन्दिर</item>
+        <item>\nकालु की ढ़ाणी</item>
+        <item>\nकिशनगंज</item>
+        <item>\nकुन्दन नगर </item>
+        <item>\nकृषि मंडी</item>
+        <item>\nकोटडा</item>
+        <item>\nखानपुरा</item>
+        <item>\nगढ़ीमालयान</item>
+        <item>\nगांधी नगर</item>
+        <item>\nगुलाबवाडी</item>
+        <item>\nग्लोबल कॉलेज</item>
+        <item>\nघूघरा घटी</item>
+        <item>\nघूघरा</item>
+        <item>\nचंद्रवरदाई</item>
+        <item>\nचाचावास</item>
+        <item>\nचामुण्डा चौराहा</item>
+        <item>\nचुंगी</item>
+        <item>\nचुडी बाजार</item>
+        <item>\nचौपाटी</item>
+        <item>\nजनाना अस्पताल</item>
+        <item>\nजोन्सगंज</item>
+        <item>\nडबल फाटक</item>
+        <item>\nतबीजी</item>
+        <item>\nदौराई</item>
+        <item>\nदौलत बाग</item>
+        <item>\nधोला भाटा</item>
+        <item>\nनगर परिषद</item>
+        <item>\nनगरा</item>
+        <item>\nनाका</item>
+        <item>\nनागफणि</item>
+        <item>\nनारीशाला</item>
+        <item>\nनारेली मन्दिर</item>
+        <item>\nनारेली</item>
+        <item>\nनौसर</item>
+        <item>\nपंचनी चौराहा</item>
+        <item>\nपचंशील</item>
+        <item>\nपरबतपुरा</item>
+        <item>\nपराईवेट बसस्टेण्ड</item>
+        <item>\nपलटन बाजार</item>
+        <item>\nपहाड़गंज</item>
+        <item>\nपुलिस चौकी</item>
+        <item>\nपुलिस लाईन</item>
+        <item>\nप्रेम नगर</item>
+        <item>\nफवारा चौराहा</item>
+        <item>\nफायसागर</item>
+        <item>\nबकरा मण्डी</item>
+        <item>\nबजरंगगढ़</item>
+        <item>\nबडलिया चौराहा</item>
+        <item>\nबलदेव नगर</item>
+        <item>\nबस स्टेण्ड</item>
+        <item>\nबोराज</item>
+        <item>\nबोर्ड ऑफिस(RAJ BOARD)</item>
+        <item>\nभगवान गंज</item>
+        <item>\nभजतगंज</item>
+        <item>\nभुणा भाटी </item>
+        <item>\nभूणा बाई </item>
+        <item>\nमदार</item>
+        <item>\nमाकडवाली</item>
+        <item>\nमाखुपुरा</item>
+        <item>\nमाया मन्दिर</item>
+        <item>\nमार्टिन ब्रीज</item>
+        <item>\nमित्तल हॉस्पीटल</item>
+        <item>\nमीर शाली</item>
+        <item>\nमीरशाह अली</item>
+        <item>\nमृंदग</item>
+        <item>\nयुर्निवसिटी तिराया</item>
+        <item>\nयूर्निवसिटी</item>
+        <item>\nराजा साईकिल</item>
+        <item>\nरामगंज</item>
+        <item>\nरामनगर</item>
+        <item>\nरींजन्ल कॉलेज</item>
+        <item>\nरेलवे स्टेशन</item>
+        <item>\nरेल्वे हॉस्पीटल</item>
+        <item>\nरैनु शर्मा</item>
+        <item>\nलिंक रोड</item>
+        <item>\nलोहाखान</item>
+        <item>\nलोहागल</item>
+        <item>\nविक्टोरिया(J.L.N)</item>
+        <item>\nवैशाली नगर</item>
+        <item>\nशताब्दी कॉलेज</item>
+        <item>\nशांतिपुरा</item>
+        <item>\nशास्त्री नगर</item>
+        <item>\nसंजय  नगर</item>
+        <item>\nसब्जी मण्डी</item>
+        <item>\nसम्राट स्कुल</item>
+        <item>\nसाईबाबा मन्दिर</item>
+        <item>\nसावित्री चौराहा</item>
+        <item>\nसिने वर्ल्ड</item>
+        <item>\nसीटी स्पार्य मॉल</item>
+        <item>\nसीने मॅाल</item>
+        <item>\nसुभाष नगर</item>
+        <item>\nस्टीफन स्कूल</item>
+        <item>\nहटुण्डी</item>
+        <item>\nअजयनगर</item>
+    </string-array>
+</resources>
